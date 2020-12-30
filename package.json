@@ -1,6 +1,6 @@
 {
   "name": "@josephuspaye/explorer-file-ops-cli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Copy, move, and delete files and folders using the File Explorer GUI from the command line",
   "main": "dist/main.js",
   "repository": "https://github.com/JosephusPaye/explorer-file-ops-cli.git",
